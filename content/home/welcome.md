@@ -21,5 +21,5 @@ cta:
   icon: chart-line
 ---
 
-Short-term forecast of Covid-19 cases and deaths across Europe, created by a multitude of infectious disease modelling teams, coordinated by the [European Centre for Disease Prevention and Control](https://www.ecdc.europa.eu/en).
+Short-term forecasts of Covid-19 cases and deaths across Europe, created by a multitude of infectious disease modelling teams, coordinated by the [European Centre for Disease Prevention and Control](https://www.ecdc.europa.eu/en).
 
