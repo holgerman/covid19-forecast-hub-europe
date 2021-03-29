@@ -1,1 +1,6 @@
-The hub was launched this week. Starting next week, we will provide weekly reports of model performance and ensemble trajectories.
+---
+title: Weekly reports
+---
+23 March 2021: <br>
+[Ensemble report](https://reports.covid19forecasthub.eu/ensemble/)<br>
+[Evaluation report](https://reports.covid19forecasthub.eu/evaluation/)
